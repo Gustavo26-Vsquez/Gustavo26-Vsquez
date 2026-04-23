@@ -24,7 +24,7 @@ Soy un docente:
 
 ###   Proyectos destacados 
 Reaciente mente comence a usar esta herramienta, donde usando un markdown tengo un proyecto senciilo 
-Enlace: (ttps://github.com/Gustavo26-Vsquez/mi-repositorio-de-la-formacion-docente-/tree/main  
+Enlace: https://github.com/Gustavo26-Vsquez/mi-repositorio-de-la-formacion-docente-/tree/main 
 
 ### 🌐 Contacto 
 Email: gusvasgonzalez91@gmail.com 
@@ -34,12 +34,3 @@ Email: gusvasgonzalez91@gmail.com
 </p>
 <p align="center">—  Robert Collier</p>
 
-<p align="center">
-  <i>"El éxito es la suma de pequeños esfuerzos día tras día 🚀"</i>
-</p>
-<p align="center">—  Robert Collier</p>
-
-<p align="center">
-  <i>"El éxito es la suma de pequeños esfuerzos día tras día 🚀"</i>
-</p>
-<p align="center">—  Robert Collier</p>
