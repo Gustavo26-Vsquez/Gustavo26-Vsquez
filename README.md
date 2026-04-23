@@ -22,8 +22,8 @@ Soy un docente:
 ![Antigravity](https://img.shields.io/badge/Antigravity-1D9E75?style=for-the-badge&logo=rocket&logoColor=white)
 
 
-###   Proyectos destacados 
-Reaciente mente comence a usar esta herramienta, donde usando un markdown tengo un proyecto senciilo 
+###  🗃️ Proyectos destacados 
+Recientemente comence a usar esta herramienta, donde con un markdown tengo un proyecto sencillo 
 Enlace: https://github.com/Gustavo26-Vsquez/mi-repositorio-de-la-formacion-docente-/tree/main 
 
 ### 🌐 Contacto 
